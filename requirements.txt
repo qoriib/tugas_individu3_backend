@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+transformers
+psycopg2
+flask-cors
